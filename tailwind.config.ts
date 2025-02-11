@@ -12,7 +12,11 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        formula: ["F1", "sans-serif"],
+      },
     },
   },
   plugins: [],
+  darkMode: 'class',
 } satisfies Config;

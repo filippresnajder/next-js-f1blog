@@ -1,0 +1,59 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "date": "18.12.2024",
+      "title": "How will Hamilton perform for Ferrari?",
+      "entry": "Aenean lorem dolor, sodales vel libero id, molestie congue nisi. Proin eget ante eu nisi lacinia pharetra vitae ut nulla. Morbi nisi nisl, ornare in molestie vel, scelerisque vitae tellus. Cras pharetra condimentum urna, at sollicitudin orci pretium non. Nam tempus laoreet facilisis. Quisque magna nisl, commodo ut tortor in, cursus blandit dui. Proin aliquam mi ex, ut suscipit justo faucibus sit amet.",
+      "core": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat tellus nibh, ac dignissim sem tempus ut. Quisque vitae elit non tellus iaculis consectetur ut quis tellus. Vivamus id pretium sem, eget sollicitudin nulla. Suspendisse vel dolor in purus placerat egestas. Suspendisse a ex elementum, venenatis metus sollicitudin, suscipit purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam ornare luctus turpis in elementum. Quisque semper, nulla ut elementum pharetra, nisi ligula aliquet metus, sed accumsan leo purus vel velit. Nunc sed nulla aliquam, dignissim turpis quis, volutpat tortor. Aenean ut turpis molestie, sodales purus eu, posuere nunc. Aliquam erat volutpat. Cras aliquam eros nec dui pharetra placerat. Quisque eget pellentesque risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel ex sit amet augue interdum aliquam a vel nisi.",
+      "end": "Aenean lorem dolor, sodales vel libero id, molestie congue nisi. Proin eget ante eu nisi lacinia pharetra vitae ut nulla. Morbi nisi nisl, ornare in molestie vel, scelerisque vitae tellus. Cras pharetra condimentum urna, at sollicitudin orci pretium non. Nam tempus laoreet facilisis. Quisque magna nisl, commodo ut tortor in, cursus blandit dui. Proin aliquam mi ex, ut suscipit justo faucibus sit amet.",
+      "image": "hamilton_ferrari_move.jpg",
+      "slug": "hamilton-ferrari-move",
+      "size": "big"
+    },
+    {
+      "id": 2,
+      "date": "19.12.2024",
+      "title": "Lawson confirmed as Verstappen's Red Bull team mate for 2025",
+      "entry": "Aenean lorem dolor, sodales vel libero id, molestie congue nisi. Proin eget ante eu nisi lacinia pharetra vitae ut nulla. Morbi nisi nisl, ornare in molestie vel, scelerisque vitae tellus. Cras pharetra condimentum urna, at sollicitudin orci pretium non. Nam tempus laoreet facilisis. Quisque magna nisl, commodo ut tortor in, cursus blandit dui. Proin aliquam mi ex, ut suscipit justo faucibus sit amet.",
+      "core": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat tellus nibh, ac dignissim sem tempus ut. Quisque vitae elit non tellus iaculis consectetur ut quis tellus. Vivamus id pretium sem, eget sollicitudin nulla. Suspendisse vel dolor in purus placerat egestas. Suspendisse a ex elementum, venenatis metus sollicitudin, suscipit purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam ornare luctus turpis in elementum. Quisque semper, nulla ut elementum pharetra, nisi ligula aliquet metus, sed accumsan leo purus vel velit. Nunc sed nulla aliquam, dignissim turpis quis, volutpat tortor. Aenean ut turpis molestie, sodales purus eu, posuere nunc. Aliquam erat volutpat. Cras aliquam eros nec dui pharetra placerat. Quisque eget pellentesque risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel ex sit amet augue interdum aliquam a vel nisi.",
+      "end": "Aenean lorem dolor, sodales vel libero id, molestie congue nisi. Proin eget ante eu nisi lacinia pharetra vitae ut nulla. Morbi nisi nisl, ornare in molestie vel, scelerisque vitae tellus. Cras pharetra condimentum urna, at sollicitudin orci pretium non. Nam tempus laoreet facilisis. Quisque magna nisl, commodo ut tortor in, cursus blandit dui. Proin aliquam mi ex, ut suscipit justo faucibus sit amet.",
+      "image": "lawson-verstappen-teammate.jpg",
+      "slug": "lawson-verstappen-teammate",
+      "size": "small"
+    },
+    {
+      "id": 3,
+      "date": "16.12.2024",
+      "title": "2025 cars to be revealed in January",
+      "entry": "Aenean lorem dolor, sodales vel libero id, molestie congue nisi. Proin eget ante eu nisi lacinia pharetra vitae ut nulla. Morbi nisi nisl, ornare in molestie vel, scelerisque vitae tellus. Cras pharetra condimentum urna, at sollicitudin orci pretium non. Nam tempus laoreet facilisis. Quisque magna nisl, commodo ut tortor in, cursus blandit dui. Proin aliquam mi ex, ut suscipit justo faucibus sit amet.",
+      "core": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat tellus nibh, ac dignissim sem tempus ut. Quisque vitae elit non tellus iaculis consectetur ut quis tellus. Vivamus id pretium sem, eget sollicitudin nulla. Suspendisse vel dolor in purus placerat egestas. Suspendisse a ex elementum, venenatis metus sollicitudin, suscipit purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam ornare luctus turpis in elementum. Quisque semper, nulla ut elementum pharetra, nisi ligula aliquet metus, sed accumsan leo purus vel velit. Nunc sed nulla aliquam, dignissim turpis quis, volutpat tortor. Aenean ut turpis molestie, sodales purus eu, posuere nunc. Aliquam erat volutpat. Cras aliquam eros nec dui pharetra placerat. Quisque eget pellentesque risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel ex sit amet augue interdum aliquam a vel nisi.",
+      "end": "Aenean lorem dolor, sodales vel libero id, molestie congue nisi. Proin eget ante eu nisi lacinia pharetra vitae ut nulla. Morbi nisi nisl, ornare in molestie vel, scelerisque vitae tellus. Cras pharetra condimentum urna, at sollicitudin orci pretium non. Nam tempus laoreet facilisis. Quisque magna nisl, commodo ut tortor in, cursus blandit dui. Proin aliquam mi ex, ut suscipit justo faucibus sit amet.",
+      "image": "2025reveal.jpg",
+      "slug": "2025-reveal",
+      "size": "small"
+    },
+    {
+      "id": 4,
+      "date": "15.12.2024",
+      "title": "McLaren celebrate the constructors title",
+      "entry": "Aenean lorem dolor, sodales vel libero id, molestie congue nisi. Proin eget ante eu nisi lacinia pharetra vitae ut nulla. Morbi nisi nisl, ornare in molestie vel, scelerisque vitae tellus. Cras pharetra condimentum urna, at sollicitudin orci pretium non. Nam tempus laoreet facilisis. Quisque magna nisl, commodo ut tortor in, cursus blandit dui. Proin aliquam mi ex, ut suscipit justo faucibus sit amet.",
+      "core": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat tellus nibh, ac dignissim sem tempus ut. Quisque vitae elit non tellus iaculis consectetur ut quis tellus. Vivamus id pretium sem, eget sollicitudin nulla. Suspendisse vel dolor in purus placerat egestas. Suspendisse a ex elementum, venenatis metus sollicitudin, suscipit purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam ornare luctus turpis in elementum. Quisque semper, nulla ut elementum pharetra, nisi ligula aliquet metus, sed accumsan leo purus vel velit. Nunc sed nulla aliquam, dignissim turpis quis, volutpat tortor. Aenean ut turpis molestie, sodales purus eu, posuere nunc. Aliquam erat volutpat. Cras aliquam eros nec dui pharetra placerat. Quisque eget pellentesque risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel ex sit amet augue interdum aliquam a vel nisi.",
+      "end": "Aenean lorem dolor, sodales vel libero id, molestie congue nisi. Proin eget ante eu nisi lacinia pharetra vitae ut nulla. Morbi nisi nisl, ornare in molestie vel, scelerisque vitae tellus. Cras pharetra condimentum urna, at sollicitudin orci pretium non. Nam tempus laoreet facilisis. Quisque magna nisl, commodo ut tortor in, cursus blandit dui. Proin aliquam mi ex, ut suscipit justo faucibus sit amet.",
+      "image": "mclaren-title.jpg",
+      "slug": "mclaren-title-celebration",
+      "size": "small"
+    },
+    {
+      "id": 5,
+      "date": "14.12.2024",
+      "title": "The 2025 Formula 1 calendar in full",
+      "entry": "Aenean lorem dolor, sodales vel libero id, molestie congue nisi. Proin eget ante eu nisi lacinia pharetra vitae ut nulla. Morbi nisi nisl, ornare in molestie vel, scelerisque vitae tellus. Cras pharetra condimentum urna, at sollicitudin orci pretium non. Nam tempus laoreet facilisis. Quisque magna nisl, commodo ut tortor in, cursus blandit dui. Proin aliquam mi ex, ut suscipit justo faucibus sit amet.",
+      "core": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat tellus nibh, ac dignissim sem tempus ut. Quisque vitae elit non tellus iaculis consectetur ut quis tellus. Vivamus id pretium sem, eget sollicitudin nulla. Suspendisse vel dolor in purus placerat egestas. Suspendisse a ex elementum, venenatis metus sollicitudin, suscipit purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam ornare luctus turpis in elementum. Quisque semper, nulla ut elementum pharetra, nisi ligula aliquet metus, sed accumsan leo purus vel velit. Nunc sed nulla aliquam, dignissim turpis quis, volutpat tortor. Aenean ut turpis molestie, sodales purus eu, posuere nunc. Aliquam erat volutpat. Cras aliquam eros nec dui pharetra placerat. Quisque eget pellentesque risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel ex sit amet augue interdum aliquam a vel nisi.",
+      "end": "Aenean lorem dolor, sodales vel libero id, molestie congue nisi. Proin eget ante eu nisi lacinia pharetra vitae ut nulla. Morbi nisi nisl, ornare in molestie vel, scelerisque vitae tellus. Cras pharetra condimentum urna, at sollicitudin orci pretium non. Nam tempus laoreet facilisis. Quisque magna nisl, commodo ut tortor in, cursus blandit dui. Proin aliquam mi ex, ut suscipit justo faucibus sit amet.",
+      "image": "calendar-2025.jpg",
+      "slug": "calendar-2025",
+      "size": "small"
+    }
+  ]
+}

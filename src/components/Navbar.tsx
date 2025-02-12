@@ -1,22 +1,14 @@
 "use client";
 
 import Image from "next/image";
-import {useEffect, useState} from "react";
+import {useState} from "react";
 import Link from "next/link";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoMdClose } from "react-icons/io";
+import ThemeToggle from "@/components/ThemeToggle";
 
 const Navbar = () => {
     const [activeDropdown, setDropdown] = useState(false);
-    const [darkMode, setDarkMode] = useState(false)
-
-    useEffect(() => {
-        if (darkMode) {
-            document.documentElement.classList.add("dark")
-        } else {
-            document.documentElement.classList.remove("dark")
-        }
-    }, [darkMode]);
 
     return (
         <nav className="fixed top-0 left-0 w-full z-50 font-formula uppercase text-sm">
@@ -30,14 +22,12 @@ const Navbar = () => {
                         height={60}
                     />
                 </Link>
-                <button className="hidden md:block hover:opacity-50" onClick={() => setDarkMode(!darkMode)}>
-                    {darkMode ? "Light Mode" : "Dark Mode"}
-                </button>
+                <div className="hidden md:block mt-1 hover:opacity-50"><ThemeToggle/></div>
                 <button onClick={() => setDropdown(!activeDropdown)}>
                     {activeDropdown ?
-                        <IoMdClose className="block md:hidden m-4 hover:opacity-50"/>
+                        <IoMdClose className="block md:hidden m-4 hover:opacity-50" size={20}/>
                         :
-                        <GiHamburgerMenu className="block md:hidden m-4 hover:opacity-50"/>
+                        <GiHamburgerMenu className="block md:hidden m-4 hover:opacity-50" size={20}/>
                     }
                 </button>
             </div>
@@ -57,7 +47,7 @@ const Navbar = () => {
                     <Link href="/drivers"><li className="p-2 border-b-2 w-4/12 border-red-800 mx-4 hover:opacity-50">Drivers</li></Link>
                     <Link href="/teams"><li className="p-2 border-b-2 w-4/12 border-red-800 mx-4 hover:opacity-50">Teams</li></Link>
                     <Link href="/calendar"><li className="p-2 border-b-2 w-4/12 border-red-800 mx-4 hover:opacity-50">Calendar</li></Link>
-                    <button onClick={() => setDarkMode(!darkMode)} className="p-2 border-b-2 w-4/12 border-red-800 mx-4 hover:opacity-50 text-left uppercase">{darkMode ? "Light Mode" : "Dark Mode"}</button>
+                    <div className="block md:hidden p-2 border-b-2 w-4/12 mx-4 border-red-800 hover:opacity-50 mb-1"><ThemeToggle/></div>
                 </ul>
             </div>
         </nav>

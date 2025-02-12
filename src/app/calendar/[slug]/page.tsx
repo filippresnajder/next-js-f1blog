@@ -19,10 +19,11 @@ const TrackView = async ({params} : {params : Promise<{slug : string}>}) => {
             <div className="max-w-[400px] p-4 flex flex-col items-center">
                 <div className="border-2 border-gray-200 dark:border-gray-900 w-auto">
                     <Image
+                        className="w-[95vw] h-auto md:w-[400px]"
                         src={`/tracks/${track.image}`}
                         alt={track.slug}
-                        width={300}
-                        height={250}
+                        width={400}
+                        height={300}
                     />
                     <div className="p-2">
                         <p>Location: {track.location}</p>
